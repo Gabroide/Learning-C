@@ -1,0 +1,50 @@
+﻿  inventory.cpp
+c:\users\tester\documents\repos\learningc\adventure\adventure\object.h(1): error C2011: 'object': nueva definición del tipo 'struct'
+  c:\users\tester\documents\repos\learningc\adventure\adventure\object.h(1): note: vea la declaración de 'object'
+c:\users\tester\documents\repos\learningc\adventure\adventure\misc.h(2): error C2365: 'distSelf': nueva definición; la definición anterior era 'enumerador'
+  c:\users\tester\documents\repos\learningc\adventure\adventure\misc.h(2): note: vea la declaración de 'distSelf'
+c:\users\tester\documents\repos\learningc\adventure\adventure\misc.h(3): error C2365: 'distHeld': nueva definición; la definición anterior era 'enumerador'
+  c:\users\tester\documents\repos\learningc\adventure\adventure\misc.h(3): note: vea la declaración de 'distHeld'
+c:\users\tester\documents\repos\learningc\adventure\adventure\misc.h(4): error C2365: 'distHeldContained': nueva definición; la definición anterior era 'enumerador'
+  c:\users\tester\documents\repos\learningc\adventure\adventure\misc.h(4): note: vea la declaración de 'distHeldContained'
+c:\users\tester\documents\repos\learningc\adventure\adventure\misc.h(5): error C2365: 'distLocation': nueva definición; la definición anterior era 'enumerador'
+  c:\users\tester\documents\repos\learningc\adventure\adventure\misc.h(5): note: vea la declaración de 'distLocation'
+c:\users\tester\documents\repos\learningc\adventure\adventure\misc.h(6): error C2365: 'distHere': nueva definición; la definición anterior era 'enumerador'
+  c:\users\tester\documents\repos\learningc\adventure\adventure\misc.h(6): note: vea la declaración de 'distHere'
+c:\users\tester\documents\repos\learningc\adventure\adventure\misc.h(7): error C2365: 'distHereContained': nueva definición; la definición anterior era 'enumerador'
+  c:\users\tester\documents\repos\learningc\adventure\adventure\misc.h(7): note: vea la declaración de 'distHereContained'
+c:\users\tester\documents\repos\learningc\adventure\adventure\misc.h(8): error C2365: 'distOverthere': nueva definición; la definición anterior era 'enumerador'
+  c:\users\tester\documents\repos\learningc\adventure\adventure\misc.h(8): note: vea la declaración de 'distOverthere'
+c:\users\tester\documents\repos\learningc\adventure\adventure\misc.h(9): error C2365: 'distNotHere': nueva definición; la definición anterior era 'enumerador'
+  c:\users\tester\documents\repos\learningc\adventure\adventure\misc.h(9): note: vea la declaración de 'distNotHere'
+c:\users\tester\documents\repos\learningc\adventure\adventure\misc.h(11): error C2365: 'distUnknownObject': nueva definición; la definición anterior era 'enumerador'
+  c:\users\tester\documents\repos\learningc\adventure\adventure\misc.h(10): note: vea la declaración de 'distUnknownObject'
+c:\users\tester\documents\repos\learningc\adventure\adventure\misc.h(11): error C2371: 'DISTANCE': nueva definición; tipos básicos distintos
+  c:\users\tester\documents\repos\learningc\adventure\adventure\misc.h(11): note: vea la declaración de 'DISTANCE'
+c:\users\tester\documents\repos\learningc\adventure\adventure\inventory.cpp(16): error C2027: uso del tipo 'object' sin definir
+  c:\users\tester\documents\repos\learningc\adventure\adventure\object.h(1): note: vea la declaración de 'object'
+c:\users\tester\documents\repos\learningc\adventure\adventure\inventory.cpp(16): warning C4473: "printf": no se pasaron suficientes argumentos para la cadena de formato
+  c:\users\tester\documents\repos\learningc\adventure\adventure\inventory.cpp(16): note: los marcadores de posición y sus parámetros esperan 1 argumentos variádicos, pero se proporcionaron 0
+  c:\users\tester\documents\repos\learningc\adventure\adventure\inventory.cpp(16): note: el argumento variádico 1 que falta es requerido por la cadena de formato '%s'
+c:\users\tester\documents\repos\learningc\adventure\adventure\inventory.cpp(19): error C2027: uso del tipo 'object' sin definir
+  c:\users\tester\documents\repos\learningc\adventure\adventure\object.h(1): note: vea la declaración de 'object'
+c:\users\tester\documents\repos\learningc\adventure\adventure\inventory.cpp(19): warning C4473: "printf": no se pasaron suficientes argumentos para la cadena de formato
+  c:\users\tester\documents\repos\learningc\adventure\adventure\inventory.cpp(19): note: los marcadores de posición y sus parámetros esperan 1 argumentos variádicos, pero se proporcionaron 0
+  c:\users\tester\documents\repos\learningc\adventure\adventure\inventory.cpp(19): note: el argumento variádico 1 que falta es requerido por la cadena de formato '%s'
+c:\users\tester\documents\repos\learningc\adventure\adventure\inventory.cpp(28): error C2027: uso del tipo 'object' sin definir
+  c:\users\tester\documents\repos\learningc\adventure\adventure\object.h(1): note: vea la declaración de 'object'
+c:\users\tester\documents\repos\learningc\adventure\adventure\inventory.cpp(30): error C2027: uso del tipo 'object' sin definir
+  c:\users\tester\documents\repos\learningc\adventure\adventure\object.h(1): note: vea la declaración de 'object'
+c:\users\tester\documents\repos\learningc\adventure\adventure\inventory.cpp(30): warning C4473: "printf": no se pasaron suficientes argumentos para la cadena de formato
+  c:\users\tester\documents\repos\learningc\adventure\adventure\inventory.cpp(30): note: los marcadores de posición y sus parámetros esperan 1 argumentos variádicos, pero se proporcionaron 0
+  c:\users\tester\documents\repos\learningc\adventure\adventure\inventory.cpp(30): note: el argumento variádico 1 que falta es requerido por la cadena de formato '%s'
+c:\users\tester\documents\repos\learningc\adventure\adventure\inventory.cpp(40): error C2027: uso del tipo 'object' sin definir
+  c:\users\tester\documents\repos\learningc\adventure\adventure\object.h(1): note: vea la declaración de 'object'
+c:\users\tester\documents\repos\learningc\adventure\adventure\inventory.cpp(40): error C2660: 'moveObject': la función no acepta 1 argumentos
+  c:\users\tester\documents\repos\learningc\adventure\adventure\move.h(1): note: vea la declaración de 'moveObject'
+  location.cpp
+  main.cpp
+  misc.cpp
+  noun.cpp
+  parsexec.cpp
+  Generando código...
