@@ -1,0 +1,12 @@
+﻿  inventory.cpp
+  location.cpp
+  misc.cpp
+  move.cpp
+  noun.cpp
+  object.cpp
+  openclose.cpp
+  parsexec.cpp
+  reach.cpp
+  toggle.cpp
+  Generando código...
+  Adventure.vcxproj -> C:\Users\Tester\Documents\Repos\LearningC\Adventure\Debug\Adventure.exe
