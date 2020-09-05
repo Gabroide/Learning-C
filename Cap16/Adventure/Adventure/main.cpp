@@ -13,6 +13,7 @@ static bool getInput(const char *filename)
 {
 	static FILE *fp = NULL;
 	bool ok;
+	
 	if (fp == NULL)
 	{
 		if (filename != NULL) fp = fopen(filename, "rt");

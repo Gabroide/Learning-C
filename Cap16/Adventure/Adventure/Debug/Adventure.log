@@ -1,16 +1,2 @@
-﻿  inventory.cpp
-  inventory2.cpp
-  location.cpp
-  main.cpp
-  match.cpp
-  misc.cpp
-  move.cpp
-  noun.cpp
-  object.cpp
-  onoff.cpp
-  openclose.cpp
-  parsexec.cpp
-  reach.cpp
-  toggle.cpp
-  Generando código...
+﻿  main.cpp
   Adventure.vcxproj -> C:\Users\Tester\Documents\Repos\LearningC\Adventure\Debug\Adventure.exe
