@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\tester\documents\repos\learningc\learning-c\cap_01\multi\adventure\adventure\main.cpp(26): error C3861: 'pause': no se encontró el identificador
+c:\users\tester\documents\repos\learningc\learning-c\cap_01\multi\adventure\adventure\main.cpp(15): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: vea la declaración de 'scanf'
